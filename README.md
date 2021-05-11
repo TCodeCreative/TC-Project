@@ -1,5 +1,5 @@
 # PortoFolio 📃
-```
+```bash
 Please Dont Abuse This Repo!
 ```
 ------
